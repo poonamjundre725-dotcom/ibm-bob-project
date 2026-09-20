@@ -1,0 +1,7 @@
+
+# Dataset too large for GitHub (>100MB) — download from Kaggle
+data/IPL.csv
+
+processed_data/ipl_clean.csv
+processed_data/highest_scores.csv
+

@@ -1,0 +1,30 @@
+column,description
+match_id,Unique match identifier
+date,Match date
+season,IPL season label (e.g. 2007/08)
+season_year,Derived 4-digit year of season
+batting_team,Team currently batting
+bowling_team,Team currently bowling
+innings,Innings number (1 or 2)
+over,Over number
+ball,Ball number within over
+ball_no,Running ball number in innings
+batter,Batter facing delivery
+runs_batter,Runs scored by batter off this delivery
+balls_faced,Cumulative balls faced by batter in innings
+bowler,Bowler delivering
+valid_ball,1 if legal delivery (counts towards over)
+runs_extras,"Extra runs (wides, no-balls, byes, leg-byes)"
+runs_total,Total runs from delivery (batter + extras)
+runs_bowler,Runs charged to bowler
+is_four,Derived: 1 if boundary four
+is_six,Derived: 1 if boundary six
+wicket_kind,Type of dismissal (if any)
+player_out,Batter dismissed (if any)
+toss_winner,Team that won the toss
+toss_decision,Toss decision: bat or field
+match_won_by,Team that won the match
+win_outcome,Margin of victory
+venue,Stadium name
+city,City
+player_of_match,Player of the match award
