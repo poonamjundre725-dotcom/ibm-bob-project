@@ -6,6 +6,13 @@
   <img src="https://img.shields.io/badge/Plotly-Interactive-3F4F75?style=for-the-badge&logo=plotly" />
   <img src="https://img.shields.io/badge/Pandas-Data%20Analysis-150458?style=for-the-badge&logo=pandas" />
   <img src="https://img.shields.io/badge/Dataset-IPL%20Ball--by--Ball-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Live%20Demo-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit" />
+</p>
+
+<p align="center">
+  <a href="https://ibm-bob-project-qtwc5yupyozvkmsamuz9il.streamlit.app/" target="_blank">
+    <strong>🚀 LIVE DEMO → https://ibm-bob-project-qtwc5yupyozvkmsamuz9il.streamlit.app/</strong>
+  </a>
 </p>
 
 > **A complete end-to-end Data Analytics project on the IPL Cricket Ball-by-Ball dataset — built with Python, Pandas, Plotly, and Streamlit.**
