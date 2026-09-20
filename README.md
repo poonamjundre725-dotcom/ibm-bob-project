@@ -16,6 +16,21 @@
 </p>
 
 > **A complete end-to-end Data Analytics project on the IPL Cricket Ball-by-Ball dataset — built with Python, Pandas, Plotly, and Streamlit.**
+https://www.kaggle.com/datasets/chaitu20/ipl-dataset2008-2025
+---
+
+## 📥 Dataset
+
+| | |
+|---|---|
+| **Dataset Name** | IPL Dataset 2008–2025 (Ball-by-Ball) |
+| **Source** | Kaggle |
+| **Direct Link** | 🔗 [https://www.kaggle.com/datasets/chaitu20/ipl-dataset2008-2025](https://www.kaggle.com/datasets/chaitu20/ipl-dataset2008-2025) |
+| **Rows** | ~295,732 (one row per ball delivered) |
+| **Columns** | 64 |
+| **Seasons** | 2008 – 2026 (19 seasons) |
+
+> ⚠️ Download `IPL.csv` from the Kaggle link above and place it at `ipl_cricket_analytics/data/IPL.csv` before running the project.
 
 ---
 
